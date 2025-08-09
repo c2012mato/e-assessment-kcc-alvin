@@ -9,7 +9,7 @@ This repository contains code and resources for the E_ASSESSMENT project. Below 
     - [Examples](#Examples)
     - [Ingestion](#Ingestion)
     - [Producer](#Producer)
-- [Usage](#usage)
+- [Usage](#Usage-and-Example-triggers)
 ---
 
 ## Overview
@@ -69,7 +69,7 @@ Cloud Run Function is used to populate Pub/Sub using publish() to simulate event
     Libraries required during cloud build.
 ---
 
-## Usage and Example triggers
+## Usage-and-Example-triggers
 - send messages to pubsub topic :
     ```json
     {
