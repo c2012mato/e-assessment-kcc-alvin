@@ -1,0 +1,4 @@
+functions-framework==3.5.0
+flask==2.3.3
+google-cloud-pubsub==2.20.0
+pytz==2024.1
