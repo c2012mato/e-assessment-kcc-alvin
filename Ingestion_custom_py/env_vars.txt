@@ -1,0 +1,5 @@
+export GOOGLE_APPLICATION_CREDENTIALS="C:\Users\reyes\OneDrive\Desktop\testing\dataflow_admin_sa_key.json"
+export PROJECT_ID="test-01-468006"
+export SUBSCRIPTION_ID="socmed-events-sub"
+export VALID_TABLE="test-01-468006.production.tb_socmed_events_v2"
+export INVALID_TABLE="test-01-468006.production.tb_socmed_events_v2_invalid"

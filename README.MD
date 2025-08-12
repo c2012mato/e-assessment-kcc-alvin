@@ -50,10 +50,17 @@ Example event data in different csvs. Also contains SQL queries.
 
 ### Ingestion
 #### Overview
-Dataflow is used to ingest pubsub messages from producer.
+**Updated** to custom python script - used to ingest pubsub messages from producer.
 #### Contents
-- **DATAFLOW.MD** \
-    Dataflow configuration.
+- **Ingestion.py** \
+    Script for ingestion using custom python script.
+- **Ingestion.md** \
+    Documentation and details of Ingestion script.
+- **env_vars.txt** \
+    Environment variables used in the script.
+- **requirements.txt** \
+    Libraries required for the script.
+
 
 ### Producer
 #### Overview

@@ -1,0 +1,8 @@
+curl -X POST "https://event-mock-firing-socmed-323059487248.asia-southeast1.run.app" \
+-H "Authorization: bearer $(gcloud auth print-identity-token)" \
+-H "Content-Type: application/json" \
+-H "Api-Key: HZPcQrpe6qpZUOhHRalSDQ==" \
+-d '{
+  "action": "Start",
+  "duration": 15
+}'
