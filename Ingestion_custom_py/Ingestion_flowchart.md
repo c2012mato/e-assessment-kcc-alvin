@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Start] --> B[Initialize EventIngestor]
     B --> C[Ensure Tables Exist]
